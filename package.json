@@ -1,6 +1,6 @@
 {
   "name": "is-my-world-spinning",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Basic Terminal Utility App to check if my favorite services and other things are up and running",
   "main": "index.js",
   "bin": {
