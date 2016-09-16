@@ -4,7 +4,7 @@
   "description": "A Basic Terminal Utility App to check if my favorite services and other things are up and running",
   "main": "index.js",
   "bin": {
-    "is-my-world-spinning": "index.js"
+    "is-my-world-spinning": "bin/is-my-world-spinning"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
