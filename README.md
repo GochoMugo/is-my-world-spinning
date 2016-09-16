@@ -18,8 +18,21 @@
 ```
 
 
+## installation:
+
+You need [npm][npm] (bundled with [node.js][nodejs]):
+
+```bash
+$ npm install is-my-world-spinning --global
+```
+
+
 ### license:
 
 **The MIT License (MIT)**
 
 Copyright (c) 2016 GochoMugo <mugo@forfuture.co.ke>
+
+
+[npm]:https://npmjs.com
+[nodejs]:https://nodejs.org
