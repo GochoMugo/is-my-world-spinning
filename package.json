@@ -1,0 +1,35 @@
+{
+  "name": "is-my-world-spinning",
+  "version": "0.0.0",
+  "description": "A Basic Terminal Utility App to check if my favorite services and other things are up and running",
+  "main": "index.js",
+  "bin": {
+    "is-my-world-spinning": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GochoMugo/is-my-world-spinning.git"
+  },
+  "keywords": [
+    "terminal",
+    "utility",
+    "app",
+    "uptime",
+    "running"
+  ],
+  "author": "GochoMugo (www.gmugo.in)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GochoMugo/is-my-world-spinning/issues"
+  },
+  "homepage": "https://github.com/GochoMugo/is-my-world-spinning#readme",
+  "dependencies": {
+    "log-update": "^1.0.2",
+    "require-all": "^2.0.0",
+    "superagent": "^2.2.0",
+    "unicons": "0.0.3"
+  }
+}
