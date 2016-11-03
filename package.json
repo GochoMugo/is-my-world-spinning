@@ -2,7 +2,7 @@
   "name": "is-my-world-spinning",
   "version": "0.0.2",
   "description": "A Basic Terminal Utility App to check if my favorite services and other things are up and running",
-  "main": "index.js",
+  "main": "lib/index.js",
   "bin": {
     "is-my-world-spinning": "bin/is-my-world-spinning"
   },
@@ -29,9 +29,11 @@
   "dependencies": {
     "chalk": "^1.1.3",
     "cheerio": "^0.22.0",
+    "commander": "^2.9.0",
     "log-update": "^1.0.2",
     "require-all": "^2.0.0",
     "superagent": "^2.2.0",
-    "unicons": "0.0.3"
+    "unicons": "0.0.3",
+    "update-notifier": "^1.0.2"
   }
 }
